@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\Laboratorijske_vjezbe1\Laboratorijske_vjezbe1\obj\Debug\Laboratorijske_vjezbe1.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\Laboratorijske_vjezbe1\Laboratorijske_vjezbe1\obj\Debug\Laboratorijske_vjezbe1.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Laboratorijske_vjezbe1\Laboratorijske_vjezbe1\bin\Debug\Laboratorijske_vjezbe1.exe.config
+C:\Users\pc\source\repos\Laboratorijske_vjezbe1\Laboratorijske_vjezbe1\bin\Debug\Laboratorijske_vjezbe1.exe
+C:\Users\pc\source\repos\Laboratorijske_vjezbe1\Laboratorijske_vjezbe1\bin\Debug\Laboratorijske_vjezbe1.pdb
+C:\Users\pc\source\repos\Laboratorijske_vjezbe1\Laboratorijske_vjezbe1\obj\Debug\Laboratorijske_vjezbe1.exe
+C:\Users\pc\source\repos\Laboratorijske_vjezbe1\Laboratorijske_vjezbe1\obj\Debug\Laboratorijske_vjezbe1.pdb
